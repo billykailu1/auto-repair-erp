@@ -92,7 +92,7 @@ This opens a browser-based GUI for easy management.
 
 ## 👥 Contributors
 - **Kai Lu**
-- - **Zeinab Awada** 
+- **Zeinab Awada** 
 - **Erdi Hida** 
 - **Donovan Hodges** 
 
