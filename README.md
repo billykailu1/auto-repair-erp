@@ -91,9 +91,10 @@ This opens a browser-based GUI for easy management.
 ---
 
 ## 👥 Contributors
-- **Your Name** – [GitHub](https://github.com/your-username)
-- **Team Member 2** – [GitHub](https://github.com/team-member-2)
-- **Team Member 3** – [GitHub](https://github.com/team-member-3)
+- **Kai Lu**
+- - **Zeinab Awada** 
+- **Erdi Hida** 
+- **Donovan Hodges** 
 
 ---
 
