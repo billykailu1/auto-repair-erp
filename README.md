@@ -101,4 +101,3 @@ This opens a browser-based GUI for easy management.
 ## ⚠️ License
 This project is **open-source** and can be modified or distributed under the **MIT License**.
 
-✅ **Now your project is documented and ready for GitHub!** 🚀
