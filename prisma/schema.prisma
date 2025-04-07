@@ -38,6 +38,7 @@ model Inventory {
   quantity    Int
   reorderLevel Int
   lastUpdated DateTime @default(now())
+  partType    String // Now required field to categorize parts
 }
 
 model Alert {
