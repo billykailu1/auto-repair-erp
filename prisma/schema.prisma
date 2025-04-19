@@ -25,7 +25,7 @@ model Appointment {
   vehicleModel    String
   appointmentDate DateTime
   status          String // "scheduled", "completed", "canceled"
-
+  jobType         String 
   mechanicId      Int?
   mechanic        User?  @relation(fields: [mechanicId], references: [id])
 }
